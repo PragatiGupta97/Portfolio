@@ -4,7 +4,7 @@
 
 My personal portfolio website showcasing my experience, projects, and skills.
 
-**[View Live Demo](https://pragatigu pta97.github.io/Portfolio/)**
+**[View Live Demo](https://pragatigupta97.github.io/Portfolio/)**
 
 ## Run Locally
 
