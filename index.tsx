@@ -76,7 +76,7 @@ const userData = {
     tagline: "Innovating across the spectrum from Product Giants to Startups. Passionate about GenAI, LLMs, and building inclusive tech.",
     email: "pragatigupta.97@gmail.com",
     location: "Helsinki Metropolitan Area, Finland",
-    image: "./DSC04412.JPG", // TODO: Replace with your local image path (e.g., './profile.jpg')
+    image: "./images/DSC04412.JPG",
     social: {
       github: "#", // Placeholder as specific GitHub wasn't in OCR, but Bitbucket skill was present.
       linkedin: "https://www.linkedin.com/in/ds-pragati-gupta/",
@@ -486,7 +486,7 @@ const About = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-tr from-purple-200 to-pink-200 rounded-full blur-2xl opacity-60"></div>
               <img 
-                src="/images/1759933099069.jpeg" 
+                src="./images/1759933099069.jpeg" 
                 alt="Workspace" 
                 className="relative rounded-3xl shadow-lg w-full max-w-sm rotate-3 border-4 border-white"
               />
