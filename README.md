@@ -1,6 +1,6 @@
 <div align="center">
 
-# Portfolio App
+# Portfolio
 
 My personal portfolio website showcasing my experience, projects, and skills.
 
