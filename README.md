@@ -2,7 +2,9 @@
 
 # Portfolio App
 
-This contains everything you need to run your portfolio app locally.
+My personal portfolio website showcasing my experience, projects, and skills.
+
+**[View Live Demo](https://pragatigu pta97.github.io/Portfolio/)**
 
 ## Run Locally
 
