@@ -15,6 +15,5 @@ My personal portfolio website showcasing my experience, projects, and skills.
    `npm install`
 2. Run the app:
    `npm run dev`
-2. Hosted URL:
-   `(https://pragatigupta97.github.io/Portfolio/#)`
+
    
