@@ -402,7 +402,7 @@ const Hero = () => {
             <a href="#contact" className="px-8 py-3 bg-gray-900 text-white rounded-full font-medium hover:bg-gray-800 transition-all hover:shadow-lg hover:-translate-y-1">
               Get in Touch
             </a>
-            <a href="./Pragati_Resume_2026.pdf" download className="px-8 py-3 bg-white text-gray-900 border border-gray-200 rounded-full font-medium hover:bg-gray-50 transition-all hover:shadow-lg hover:-translate-y-1 flex items-center gap-2">
+            <a href="Pragati_Resume_2026.pdf" download="Pragati_Gupta_Resume.pdf" className="px-8 py-3 bg-white text-gray-900 border border-gray-200 rounded-full font-medium hover:bg-gray-50 transition-all hover:shadow-lg hover:-translate-y-1 flex items-center gap-2">
               <Download size={18} />
               Resume
             </a>
