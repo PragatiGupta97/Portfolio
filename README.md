@@ -13,3 +13,6 @@ This contains everything you need to run your portfolio app locally.
    `npm install`
 2. Run the app:
    `npm run dev`
+2. Hosted URL:
+   `(https://pragatigupta97.github.io/Portfolio/#)`
+   
