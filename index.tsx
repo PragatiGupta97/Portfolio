@@ -684,9 +684,8 @@ const Projects = () => {
                 />
               </div>
               <div className="p-6 flex-1 flex flex-col">
-                <h3 className="text-xl font-bold text-gray-800 mb-2 group-hover:text-purple-600 transition-colors flex items-center justify-between">
+                <h3 className="text-xl font-bold text-gray-800 mb-2 group-hover:text-purple-600 transition-colors">
                   {project.title}
-                  <ExternalLink size={16} className="opacity-0 group-hover:opacity-100 transition-opacity" />
                 </h3>
                 <p className="text-gray-600 mb-4 text-sm leading-relaxed flex-1">
                   {project.description}
