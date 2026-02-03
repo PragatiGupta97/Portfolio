@@ -73,7 +73,7 @@ const userData = {
   personal: {
     name: "Pragati Gupta",
     title: "AI & Cloud Engineer",
-    tagline: "Innovating across the spectrum from Product Giants to Startups. Passionate about GenAI, LLMs, and building inclusive tech.",
+    tagline: "Innovating across the spectrum from product giants to startups. Passionate about GenAI, LLMs, and building inclusive tech.",
     email: "pragatigupta.97@gmail.com",
     location: "Helsinki Metropolitan Area, Finland",
     image: "./images/DSC04412.JPG",
